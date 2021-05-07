@@ -1,1 +1,2 @@
-# BADS7105 CRM analytics and intelligence
+# Homework 04 – Customer Journey
+
