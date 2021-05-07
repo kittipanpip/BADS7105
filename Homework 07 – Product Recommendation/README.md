@@ -1,1 +1,1 @@
-# BADS7105 CRM analytics and intelligence
+# Homework 07 – Product Recommendation
