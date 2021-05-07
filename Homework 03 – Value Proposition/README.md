@@ -1,1 +1,2 @@
-# BADS7105 CRM analytics and intelligence
+# Homework 03 – Value Proposition
+
